@@ -37,7 +37,7 @@ Portfolio/
    ```
 3. Open `index.html` in your browser.
 
-## 📌 Deployment
+##  Deployment
 
 You can deploy this portfolio using:
 
