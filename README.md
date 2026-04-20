@@ -2,7 +2,7 @@
 
 This is my personal portfolio website showcasing my projects, skills, and contact information.
 
-## 🚀 Features
+##  Features
 
 * Responsive design
 * Projects showcase
