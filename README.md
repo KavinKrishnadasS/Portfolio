@@ -45,7 +45,7 @@ You can deploy this portfolio using:
 * Netlify
 * Vercel
 
-## 📬 Contact
+##  Contact
 
 Feel free to reach out for collaboration or opportunities!
 
