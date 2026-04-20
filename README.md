@@ -18,7 +18,7 @@ Portfolio/
 │── images/
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML
 * CSS
