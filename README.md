@@ -51,4 +51,4 @@ Feel free to reach out for collaboration or opportunities!
 
 ---
 
-⭐ Don’t forget to star the repo if you like it!
+ Don’t forget to star the repo if you like it!
